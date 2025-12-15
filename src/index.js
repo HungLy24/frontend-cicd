@@ -27,7 +27,7 @@ function App() {
 
   return (
     <div style={{ textAlign: "center" }}>
-      <h1>React + Node + Mongo</h1>
+      <h1>Chiều thứ 2 ca 3</h1>
       <input value={text} onChange={e => setText(e.target.value)} />
       <button onClick={add}>Add</button>
       <ul>
